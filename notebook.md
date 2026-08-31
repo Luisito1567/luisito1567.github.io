@@ -1,10 +1,36 @@
-## Table of Contents
+## Table of Contents - [Vocab](#vocab)
+- [Code Examples](#code-examples)
+  - [Print Statements](#print-statements)
+- [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
+
+
 
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
   - [Headings](#headings)
 
   - [Text Formatting](#text-formatting)
+  - ## Code Examples
+ 
+  ### Print Statements
+  ```java
+  public class Hello {
+      public static void main(String[] args) {
+          System.out.println("Hello World!");
+      }
+  }
+  ```
+  **System** accesses a Java class that's built into the language
+  
+  **out** is short for "output".
+  
+  **println** is short for "print line".
+  ## Vocab
+<details>
+  <summary>algorithm</summary>
+    Step-by-step instructions. 
+
+ 
  
 
 
