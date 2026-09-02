@@ -30,13 +30,37 @@
   <summary>algorithm</summary>
     Step-by-step instructions. 
 
+<
  
- 
 
+<details>
+  <summary>JAVA</summary>
 
+  A programming language. Java and javascrip are complete different languages.
+  
+   <details> </details>
+<summary>object oriented laguage </summary>
+    Object-oriented progamming is a way of writting code where you group related data and actions into reusabel "objects" kind of like organizing tools into labeled boxes. 
 
+<details>
+  <summary>object oriented languages</summary>
+    Object-oriented progamming is a way of writting code where you group related data and actions into reusabel "objects" kind of like organizing tools into labeled boxes. 
 
+    <details>
+  <summary>procedural languages</summary>
+   procedural languages focuse on proceduers (functions) that operate on data in a linear top-down sequence. 
 
+<details>
+  <summary>class</summary>
+   in java, a class is like a buleprint that defines the structure and behavior ( data and actions) of objects you can create from it. 
+
+<details>
+  <summary>meathod</summary>
+    A method in Java is a block of code inside a class that preforms a specific task when it's called. 
+
+<details>
+  <summary>console</summary>
+    The area of a computer that notes from a program can be printed to. Kind of like a notbook. 
 
 
 
