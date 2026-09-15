@@ -62,7 +62,13 @@
   <summary>console</summary>
     The area of a computer that notes from a program can be printed to. Kind of like a notbook. 
 
+<details>
+  <summary>varibles</summary>
+  A variable is like that box that holds information you want.
 
+<details>
+  <summary>strings</summary>
+  A string is a set of words or number that are surrounded by quotation marks ," here is 1 string,"  
 
 
 
