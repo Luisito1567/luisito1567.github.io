@@ -193,29 +193,48 @@
 
 
 VR Robot + Playground	VR Robot, PlaygroundThe VR Robot is the virtual device you program, while the Playground is the 3D grid map where it moves and completes challenges
+
 Programming Language + Project	Programming Language, Project The Programming Language is the set of rules (Blocks or Python) you use to write instructions, which are saved together as a Project.
+
 Behavior + Command	Behavior, Command/ A Behavior is an action the robot performs, which is triggered by a specific line of code called a Command.
 Drivetrain	Drivetrain This is the group of motors and wheels that allows the robot to drive forward, reverse, and turn around the playground.
+
 Loop + Iteration	Loop, Iteration A Loop is a control structure that repeats a set of commands, and each individual repeat is called an Iteration.
 Sensor + Bumper Sensor	Sensor, Bumper Sensor A Sensor gathers data from the environment, and the Bumper Sensor specifically detects physical impacts when the robot crashes into a wall or object.
+
 Boolean + Condition + TRUE/FALSE	Boolean, Condition, TRUE, FALSEA Condition is a statement checked by the robot that results in a Boolean value, which can only be TRUE or FALSE.
+
 Distance Sensor + Threshold	Distance Sensor, ThresholdThe Distance Sensor measures how far away an object is using laser light, while a Threshold is the limit value used to decide if an object is too close.
+
 Coordinate Plane + X/Y Coordinates	The Coordinate Plane is the full grid layout of the playground, where X/Y Coordinates pinpoint the exact horizontal and vertical location of the robot.
+
 Location Sensor This internal sensor reads the robot's exact X and Y grid coordinates and tracks its current heading angle.
+
 Comment	This is a note written inside the code to help humans understand what the program does, which the robot completely ignores when running.
+
 Eye Sensor This sensor can detect if an object is present and identify its specific color (like red, green, blue, or none).
+
 Conditional Statement This is an "If-Then" structure that instructs the robot to execute certain commands only if a specific condition is true.
 
 
 Sequence	the order matters because it a list of what to do step by step.
+
 Parameters: These are the changeable values inside a block—like distance or speed numbers—that alter exactly how the robot executes that command.
+
 Loops / Iteration: This is a control structure used to repeat a set of programming blocks multiple times without rewriting them.
+
 Sensors: These are the hardware components—like the eye, bumper, or distance sensors—that let the virtual robot gather data from its playground.
+
 Booleans & Conditions: This is binary information that evaluates to either TRUE or FALSE to help the robot make decisions.
+
 Sense  Think Act: This is the continuous cycle where a robot collects sensor data, decides what to do, and then moves or reacts.
+
 Comparisons: These are math symbols like < or > used to check if a sensor value is greater than or less than a specific target.
+
 Coordinates: These are the X and Y grid numbers that tell you exactly where the robot is located on the playground map.
+
 Conditionals: These are "If... Then... Else" logic blocks that guide the robot down different paths depending on whether a rule is met.
+
 Patterns: This means finding repetitive behaviors or layouts in a challenge so you can write a cleaner, more efficient algorithm
 
 
