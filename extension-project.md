@@ -1,7 +1,7 @@
 
 Idea 1: Fantasy RPG Character Creator
 
-This program helps a user design a custom role-playing game character, validating their choices and calculating starting combat stats based on their inputs.
+This program helps me design a custom role-playing game character, validating their choices and calculating starting combat stats based on their inputs.
 • The Custom Class: Hero (Tracks the name, character class, and starting health).
 • The 3+ Inputs: Character name, character class (Warrior, Mage, Rogue), and starting gold amount.
 • The 2+ Data Types: String (name, character class), int (gold).
