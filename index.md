@@ -2,9 +2,10 @@
 
 ## Projects
 
-- Project 1: Description
+- [Project 1](extention-project.md): Description
 
 - Project 2: Description
+  
 
 ## About Me
 
