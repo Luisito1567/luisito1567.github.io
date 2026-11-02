@@ -6,7 +6,7 @@
 
 - Project 2: Smart Vehicle Loan Evaluator
 
-- Project 3:
+- Project 3:  Smart Thermostat & HVAC Optimizer
   
 
 ## About Me
