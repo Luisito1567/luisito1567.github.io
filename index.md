@@ -2,11 +2,11 @@
 
 ## Projects
 
-- [Project 1](extention-project.md): Fantasy RPG Character Creator
+- [Project 1](extension-project.md): Fantasy RPG Character Creator
 
-- [Project 2](extention-project.md): Smart Vehicle Loan Evaluator
+- [Project 2](extension-project.md): Smart Vehicle Loan Evaluator
 
-- [Project 3](extention-project.md):  Smart Thermostat & HVAC Optimizer
+- [Project 3](extension-project.md):  Smart Thermostat & HVAC Optimizer
   
 
 ## About Me
