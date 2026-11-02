@@ -4,7 +4,9 @@
 
 - [Project 1](extention-project.md): Fantasy RPG Character Creator
 
-- Project 2: 
+- Project 2: Smart Vehicle Loan Evaluator
+
+- Project 3:
   
 
 ## About Me
