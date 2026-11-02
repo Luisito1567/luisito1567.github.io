@@ -2,9 +2,9 @@
 
 ## Projects
 
-- [Project 1](extention-project.md): Description
+- [Project 1](extention-project.md): Fantasy RPG Character Creator
 
-- Project 2: Description
+- Project 2: 
   
 
 ## About Me
