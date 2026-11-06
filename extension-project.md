@@ -54,29 +54,22 @@ Smart Vehicle Loan Evaluator
 
 
 
-Idea 3: Smart Thermostat & HVAC Optimizer
+Idea 3: Galactic Resource Refinery
 
-This program simulates an automated home climate system that takes environmental readings and decides the best operational mode for energy efficiency.
-• The Custom Class: Thermostat (Tracks the target temperature, eco-mode status, and current room name).
-• The 3+ Inputs: Room name, current temperature, and whether "Eco Mode" is turned on.
-• The 2+ Data Types: String (room name), double (temperature), boolean (eco-mode status).
-• The Conditional Logic: An if/else if/else structure compares the current temperature to ideal thresholds, adjusting its behavior depending on whether Eco Mode is true or false.
-• Relevant Output: Displays the current status of the room, tells the user whether the AC or Heater has been activated, and prints an efficiency rating based on their settings.
-Which program idea would you like to build? Once you choose, I can write the complete, copy-pasteable Java code for both the custom class and the Main runner class.
+In this game, the player clicks to mine space minerals and then chooses how to refine or invest them.
+• The 3 User Inputs & Data Types:
+	1. shipName (String): The name of the player's spaceship.
+	2. clickCount (Integer/Number): How many times they clicked to mine ore.
+	3. upgradeChoice (Integer/Number or String): Choosing whether to upgrade "Thrusters" (1) or "Shields" (2).
+• The If/Else Logic:
+	• If clickCount is greater than 50, they successfully upgrade their chosen system.
+	• Else, they don't have enough ore and the upgrade fails.
+• The Output: "The captain of the [shipName] attempted to upgrade [upgradeChoice]. With [clickCount] tons of ore mined, the upgrade was [Successful / Unsuccessful]!"
 
 
-
-Smart Thermostat & HVAC Optimizer
-
-• Beginning:
-	• Initialize the console screen with a welcoming header indicating connection to the climate matrix.
-	• Instruct the operator to provide accurate regional zone readings for optimal performance.
-	• Capture the specific target room localization string.
-• Middle:
-	• Prompt for a decimal numeric value reflecting the ambient thermal landscape.
-	• Request a true/false status binary switch to determine current power management parameters.
-	• Construct a physical instance using the raw captured variables.
-• Ending:
-	• Evaluate the absolute temperature boundaries using comparative logic blocks against standard comfort baselines.
-	• Branch output handling pathways depending on whether power throttling restrictions are toggled on or off.
-	• Deliver a full diagnostic report displaying system status markers alongside environmental utility ratings.
+• Welcome Message: Display a welcome banner like "--- WELCOME TO THE GALACTIC RESOURCE REFINERY ---".
+• Give Instructions: Inform the player that they need to name their ship, click (simulate clicking by entering a number of mining rounds), and choose a ship system to upgrade.
+• Take User Input:
+	• Input 1: shipName (String) -> "Enter your spaceship's name: "
+	• Input 2: clickCount (Integer) -> "How many mining clicks did you achieve? "
+	• Input 3: upgradeChoice (String) -> "Type 'Thrusters' or 'Shields' to select your upgrade target: "
