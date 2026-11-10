@@ -15,12 +15,10 @@
 
 ## Day 1
 
-— Date: __________
+— Date: ____oct/29/26______
 
 ### 1. What was your goal or plan for today?
-- What were you trying to accomplish?
-- What steps did you plan to take?
-- What materials, parts, or tools did you need?
+desind track for robot
 - 
 ### 2. What did you work on today?
 - What did you design, sketch, build, or program?
