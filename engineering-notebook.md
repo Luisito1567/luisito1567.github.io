@@ -21,29 +21,17 @@
 desind track for robot
 - 
 ### 2. What did you work on today?
-- What did you design, sketch, build, or program?
-- What changes or improvements did you make?
-- What tasks did you complete?
-- Include pictures, diagrams, or measurements if applicable.
+Me and my team had to do some math to get the measurement for the smaller version of the robot.
 - 
 ### 3. What tests or experiments did you perform?
-- What were you trying to test or discover?
-- What did you predict would happen?
-- What were your results or observations?
-- Did your design or solution work as expected?
+me and my team had to measure out the weight and length of the robot 
 
 ### 4. What challenges did you encounter?
-- What problems, errors, or failures occurred?
-- What did you try to fix or improve?
-- What worked or didn't work?
-- What would you change about your design or approach?
+my teams measurement where corect the first time some everything when well.
+
 
 ### 5. What did you learn, and what comes next?
-- What new skills, concepts, or techniques did you learn?
-- What did you accomplish?
-- What would you do differently?
-- What are your next steps for the next class?
-
+I learned how to make smaller versions of stuff using math.
 
 
 
@@ -54,36 +42,22 @@ desind track for robot
 
 ## Day 2
 
-— Date: __________
+— Date: ___oct/30/26_______
 
 ### 1. What was your goal or plan for today?
-- What were you trying to accomplish?
-- What steps did you plan to take?
-- What materials, parts, or tools did you need?
+now that me and  my team where done with the measurment now we can start to make the race track.
 
 ### 2. What did you work on today?
-- What did you design, sketch, build, or program?
-- What changes or improvements did you make?
-- What tasks did you complete?
-- Include pictures, diagrams, or measurements if applicable.
+I made the race track sketch that me and my team all liked.
 
 ### 3. What tests or experiments did you perform?
-- What were you trying to test or discover?
-- What did you predict would happen?
-- What were your results or observations?
-- Did your design or solution work as expected?
+one teast we did was that we meashured how long and how wide we wanted the track to be.
 
 ### 4. What challenges did you encounter?
-- What problems, errors, or failures occurred?
-- What did you try to fix or improve?
-- What worked or didn't work?
-- What would you change about your design or approach?
+thankfully we had no challenges to worry about.
 
 ### 5. What did you learn, and what comes next?
-- What new skills, concepts, or techniques did you learn?
-- What did you accomplish?
-- What would you do differently?
-- What are your next steps for the next class?
+I learned how to communicate well with my team.
 
 ---------
 
@@ -91,36 +65,22 @@ desind track for robot
 
 ## Day 3
 
-— Date: __________
+— Date: ___sep/2/26______
 
 ### 1. What was your goal or plan for today?
-- What were you trying to accomplish?
-- What steps did you plan to take?
-- What materials, parts, or tools did you need?
+to make the race track 
 
 ### 2. What did you work on today?
-- What did you design, sketch, build, or program?
-- What changes or improvements did you make?
-- What tasks did you complete?
-- Include pictures, diagrams, or measurements if applicable.
+me and my team made the race track 
 
 ### 3. What tests or experiments did you perform?
-- What were you trying to test or discover?
-- What did you predict would happen?
-- What were your results or observations?
-- Did your design or solution work as expected?
+nothing
 
 ### 4. What challenges did you encounter?
-- What problems, errors, or failures occurred?
-- What did you try to fix or improve?
-- What worked or didn't work?
-- What would you change about your design or approach?
+nothing
 
 ### 5. What did you learn, and what comes next?
-- What new skills, concepts, or techniques did you learn?
-- What did you accomplish?
-- What would you do differently?
-- What are your next steps for the next class?
+I learn its better to sketch something first then do it.
 
 ---------
 
@@ -131,7 +91,7 @@ desind track for robot
 
 # Engineering Notebook
 
-## Robo Rally
+ ## Robo Rally
 
 ### Class 1 — Build & Explore
 **Date:**
