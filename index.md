@@ -7,6 +7,8 @@
 - [Project 2](extension-project.md): Smart Vehicle Loan Evaluator
 
 - [Project 3](extension-project.md):  Smart Thermostat & HVAC Optimizer
+
+- [engineering-notbook.md]
   
 
 ## About Me
