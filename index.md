@@ -8,7 +8,7 @@
 
 - [Project 3](extension-project.md):  Smart Thermostat & HVAC Optimizer
 
-- [engineering-notbook.md]
+- (engineering-notebook.md):
   
 
 ## About Me
