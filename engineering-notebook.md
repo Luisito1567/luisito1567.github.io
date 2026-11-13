@@ -59,6 +59,27 @@ thankfully we had no challenges to worry about.
 ### 5. What did you learn, and what comes next?
 I learned how to communicate well with my team.
 
+## Day 4
+— Date: Novmber/13/26
+Cardboard measurement length:3cm
+
+Cardboard measurement width:4cm
+
+Robot measurement length:12in
+
+Robot measurement width:14in
+
+Length scale: _10.16_:_0.098_
+
+Width scale: _8.89_:_0.112_
+
+Smallest width of the model racetrack: ___mm
+Apply scale: smallest width X scale = ___ mm
+
+Convert to cm =
+
+Reflection: I learned today that scale are important for building and makes sure it accurate and correct
+
 ---------
 
 
